@@ -1,6 +1,6 @@
 Hi everyone!!! :octocat:
 
-I'm Diogo Reis from Brazil (🇧🇷) and I'm passionate by technology. Of course I'm, if don't, why should I have a page here in GitHub (Bitbucket and Gitlab too :stuck_out_tongue_closed_eyes:). I've been working as Back-End Developer since 2015, but I also have some knowledge in front-end development.
+I'm Diogo Reis from Brazil (🇧🇷) and I'm passionate by technology. Of course I'm, if don't, why should I have a page here in GitHub (Bitbucket and Gitlab too :stuck_out_tongue_closed_eyes:). I've been working as back-end developer since 2015, but I also have some knowledge in front-end development.
 
 I’m currently working at Qintess, an amazing company, knowned in the past as Resource. My nowadays classes are in my graduation as System Analysis and in DevOps course.
 
