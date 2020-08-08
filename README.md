@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi everyone!!! :octocat:
+
+I'm Diogo Reis from Brazil (🇧🇷) and I'm passionate by technology. Of course I'm, if don't, why should I have a page here in GitHub (Bitbucket and Gitlab too :stuck_out_tongue_closed_eyes:). I've been working as Back-End Developer since 2015, but I also have some knowledge in front-end development.
+
+I’m currently working at Qintess, an amazing company, knowned in the past as Resource. My nowadays classes are in my graduation as System Analysis and in DevOps course.
+
+Since that I can't play soccer ⚽️ anymore, one of my favorites hobbies is play RPG (:running: :dragon:), where I can talk about anything with my friends, while drinking a delicious beer. Others things I like to do include watch movies 🎞️ and series 📺, read 📚, listen music 🎵 and travel :airplane: (who don't by the way?).
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogoreiskings)](https://www.linkedin.com/in/diogoreiskings)
 
 <!--
-**dodireis/dodireis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+We can find another emojis here -> https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
